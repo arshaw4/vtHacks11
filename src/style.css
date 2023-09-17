@@ -6,6 +6,8 @@ p1{
   word-spacing:150px;
   color:orange;
 }
-dueBtn{
-  color:blue;
+.dueBtn{
+  padding: 15px;
+  text-align: center;
+  background-color:aqua
 }
